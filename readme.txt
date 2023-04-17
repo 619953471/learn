@@ -1,1 +1,1 @@
-Git is a goodw
+Git is a good
